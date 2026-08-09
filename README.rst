@@ -1,3 +1,13 @@
+**Archived:** Pygame_sdl2 has been merged into Ren'Py as the renpy.pygame package, and this repository is no longer active. 
+
+We recommend you consider:
+
+* `https://pyga.me/`_
+* `https://www.pygame.org/`_
+
+As alternatives.
+
+
 ===========
 Pygame_sdl2
 ===========
@@ -6,14 +16,6 @@ Pygame_sdl2 is a reimplementation of the Pygame API using SDL2 and
 related libraries. While in the past it was meant to support multiple
 applications, it only saw adoption as technology underlying Ren'Py, and
 is currently being supported for that purpose.
-
-
-We recommend you consider:
-
-* `https://pyga.me/`_
-* `https://www.pygame.org/`_
-
-As alternatives.
 
 License
 -------
