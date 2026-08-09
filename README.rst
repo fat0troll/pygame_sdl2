@@ -2,8 +2,8 @@
 
 We recommend you consider:
 
-* `https://pyga.me/`_
-* `https://www.pygame.org/`_
+* https://pyga.me/
+* https://www.pygame.org/
 
 As alternatives.
 
@@ -28,8 +28,6 @@ determine its licensing status.
 See the COPYING.ZLIB and COPYING.LGPL21 files for details - you'll need
 to comply with both to distribute software containing pygame_sdl2.
 
-
-Current Status
 Credits
 -------
 
